@@ -5,7 +5,7 @@ public class variables {
 		// TODO Auto-generated method stub
 
 		int a;
-		
+		int b;
 		a = 0;
 	}
 
